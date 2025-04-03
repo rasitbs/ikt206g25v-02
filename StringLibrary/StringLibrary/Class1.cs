@@ -16,3 +16,5 @@ namespace UtilityLibraries
 }
 
 //test melding
+
+//vær så snill funger ellers jeg skal knuse pcen
